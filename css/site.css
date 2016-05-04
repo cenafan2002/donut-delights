@@ -3,7 +3,7 @@
     width: 100px;
 }
 .background-image {
-    height:600px;
+    height:500px;
     width:1080px;
 }
 .contact2 {
@@ -86,6 +86,10 @@ body {
 
 .container {
     background-color:gray;
+    padding-left:35px;
+    padding-right:35px;
+    padding-top:5px;
+    padding-bottom:5px;
 }
 
 .About2 {
