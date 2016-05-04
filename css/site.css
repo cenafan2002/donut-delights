@@ -7,8 +7,6 @@
     height:400px;
     width:900px;
 
-    height:500px;
-    width:1080px;
 
 }
 .contact2 {
@@ -61,10 +59,6 @@ footer {
 
    text-align: left;
     font-size: 16px;
-
-    text-align:left;
-    font-size: 18px;
-
     color:black;
 }
 
@@ -96,14 +90,12 @@ body {
 
 .container {
     background-color:gray;
-<<<<<<< HEAD
     padding:30px;
-=======
     padding-left:35px;
     padding-right:35px;
     padding-top:5px;
     padding-bottom:5px;
->>>>>>> refs/remotes/origin/master
+
 }
 
 .About2 {
