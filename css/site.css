@@ -30,7 +30,7 @@
 }
 footer {
     font-size:18px;
-    color: gray;
+    color: black;
 }
 #brand-image2 {
     height: 55px;
@@ -55,6 +55,7 @@ footer {
 .footer2 {
    text-align: left;
     font-size: 16px;
+    color:black;
 }
 
 .background-image3 {
@@ -72,7 +73,7 @@ footer {
 }
 
 .header1 {
-    color: grey;
+    color: black;
 }
 
 .navbar {
@@ -83,8 +84,9 @@ body {
     background-color:#8B4513;
 }
 
-container {
+.container {
     background-color:gray;
+    padding:30px;
 }
 
 .About2 {
